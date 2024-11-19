@@ -2,7 +2,7 @@
 import { Plugin, Modal } from "obsidian";
 import React from "react";
 import ReactDOM from "react-dom/client";
-import "./style.css";
+import "./main.css";
 import "regenerator-runtime/runtime";
 
 import DiceRoller from "./ui/DicerRoller";
